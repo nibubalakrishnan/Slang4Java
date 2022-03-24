@@ -1,0 +1,20 @@
+
+q	java:S116"WRename this field "expression_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÎçúşÿÿÿÿ
+q	java:S116"WRename this field "expression_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÎçúşÿÿÿÿ
+E
+java:S1659"*Declare "expression_2" on a separate line.(ÇÎçúşÿÿÿÿ
+7
+java:S6205"Remove this redundant block.(÷£ÏÖıÿÿÿÿ
+2
+java:S6205!"Remove this redundant block.(®ÎÆÃ
+7
+java:S6205%"Remove this redundant block.(á»­Äùÿÿÿÿ
+2
+java:S6205("Remove this redundant block.(ˆÖ´ñ
+7
+java:S6205+"Remove this redundant block.(ü¼âÌÿÿÿÿÿ
+2
+java:S6205."Remove this redundant block.(üØô
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éœ„¶
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éœ„¶
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(š©˜Ğÿÿÿÿÿ

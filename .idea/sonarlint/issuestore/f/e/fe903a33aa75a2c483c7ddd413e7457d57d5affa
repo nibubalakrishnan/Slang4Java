@@ -1,0 +1,22 @@
+
+Z	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+Z	java:S112\"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+a	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(ƒ£›Ùÿÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ã¯œ«ıÿÿÿÿ
+a	java:S112š"FDefine and throw a dedicated exception instead of using a generic one.(ƒ£›Ùÿÿÿÿÿ
+a	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(¨€ÛÕøÿÿÿÿ
+h	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÄª¤ùÿÿÿÿ
+c	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¼¢€
+c	java:S100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍıßÇ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(¶È—Ñøÿÿÿÿ
+S	java:S106["9Replace this use of System.out or System.err by a logger.(—Ğüÿÿÿÿ
+h	java:S100{"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÚ£åûÿÿÿÿ
+5
+java:S6205"Remove this redundant "break".(›ûä·
+5
+java:S6205†"Remove this redundant "break".(›ûä·
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¯œ«ıÿÿÿÿ
+i	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨€ÛÕøÿÿÿÿ
+f
+java:S1301}"KReplace this "switch" statement by "if" statements to increase readability.(Âæ¿³ıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä©

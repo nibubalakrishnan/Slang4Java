@@ -1,0 +1,5 @@
+rootProject.name = 'Slang4Java'
+include 'Pace-1'
+include 'Pace-2'
+include 'Pace-3'
+

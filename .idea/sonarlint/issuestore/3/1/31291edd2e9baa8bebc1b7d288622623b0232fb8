@@ -1,0 +1,22 @@
+
+t
+java:S1450"YRemove the "lastString" field and declare it as a local variable in the relevant methods.(µ«„ñşÿÿÿÿ
+C
+java:S1172 "-Remove this unused method parameter "length".(ä»ºå
+h
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(²òöÛ
+P
+java:S1854(":Remove this useless assignment to local variable "tokens".(¸Çûÿ
+2
+java:S6205O"Remove this redundant block.(üØô
+E
+java:S1656"/Remove or correct this useless self-assignment.(¢›è•
+I
+java:S1068".Remove this unused "lastString" private field.(µ«„ñşÿÿÿÿ
+7
+java:S1643\"Use a StringBuilder instead.(úÁ–…ùÿÿÿÿ
+7
+java:S1643e"Use a StringBuilder instead.(¨‡ß†ûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä©
+y
+java:S4165"cRemove this useless assignment; "index" already holds the assigned value along all execution paths.(¢›è•

@@ -1,0 +1,5 @@
+
+W
+java:S1610":Convert the abstract class "Expression" into an interface.(¥îÀõ8Å”ÃÞû/
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð¢õŽ8Õ”ÃÞû/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ­Ö¿8å”ÃÞû/
